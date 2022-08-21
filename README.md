@@ -4,7 +4,7 @@ This project demonstrates a certain number of gas optimizations technics that ca
 
 
 Here are the technics discussed in this repo: 
-- Packing variables 
+- [Packing variables](https://github.com/Merdi-kim/gas-optimisation-technics/tree/master/contracts/packing-variables) 
 - Using custom errors 
 - Accessing arrays in a loop operation 
 - Usage of mappings vs arrays 
